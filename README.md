@@ -27,3 +27,8 @@ This is a web application built with *Streamlit* that allows users to:
 
 - Custom dataset with 31 classes
 - Organized in the following folder format:
+-## 🔗 Model Download
+
+The model is too large for GitHub. It will be automatically downloaded from Google Drive at runtime:
+
+- [Google Drive Link](https://drive.google.com/file/d/1aBcD1234XYzPQ/view?usp=sharing) 
