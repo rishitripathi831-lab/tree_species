@@ -32,8 +32,9 @@ This is a web application built with *Streamlit* that allows users to:
 The model is too large to upload directly to GitHub. It will be downloaded from Google Drive when the app starts.
 
 - [Download from Google Drive](https://drive.google.com/file/d/1aOykMRB2qlUizJKEfqAxQGIAoSKnzmth/view?usp=drive_link)
-- 📊 Model Details
-
+  
+- **📊 Model Details
+**
 Architecture: MobileNetV2 with custom classification head
 
 Training Platform: Google Colab
@@ -57,8 +58,8 @@ Loss: ~0.3
 
 ---
 
-💻 Technologies Used
-
+**💻 Technologies Used
+**
 Python 3.x
 
 TensorFlow / Keras
@@ -73,15 +74,15 @@ GitHub
 
 ---
 
-✅ Project Usage
+**✅ Project Usage**
 
 This project was created as part of the AICTE × Edunet Foundation Internship, focused on machine learning and model deployment.
 
 
 ---
 
-🙋 Author
-
+**🙋 Author
+**
 Name: Rishi Tripathi
 
 GitHub: github.com/rishitripathi
