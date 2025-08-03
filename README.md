@@ -31,7 +31,7 @@ This is a web application built with *Streamlit* that allows users to:
 
 The model is too large to upload directly to GitHub. It will be downloaded from Google Drive when the app starts.
 
-- [Download from Google Drive](https://drive.google.com/file/d/1aOykMRB2qlUizJKEfqAxQGIAoSKnzmth/view?usp=drive_link)
+- [Download from Google Drive](https://drive.google.com/file/d/1cr6auu91YRz9Nzf_lqEmgvyfVP-KSE1r/view?usp=sharing)
 
 
   
